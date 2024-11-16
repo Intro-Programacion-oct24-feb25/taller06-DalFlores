@@ -1,6 +1,6 @@
 # taller06
 
-# Integrantes 
+### Integrantes 
 
 Dalton Flores
 
