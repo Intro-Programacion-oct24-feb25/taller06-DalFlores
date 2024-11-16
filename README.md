@@ -1,5 +1,9 @@
 # taller06
-Dalton Flores 
+
+# Integrantes 
+
+Dalton Flores
+
 Javier Viñan 
 
 ### Problema01
