@@ -1,4 +1,6 @@
 # taller06
+Dalton Flores 
+Javier Viñan 
 
 ### Problema01
 
